@@ -1,0 +1,28 @@
+C:\Users\victor\Desktop\release\NoClipper.exe.config
+C:\Users\victor\Desktop\release\NoClipper.exe
+C:\Users\victor\Desktop\release\NoClipper.pdb
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.csprojAssemblyReference.cache
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.CadastroDeBancoDeDados.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.CadastroDeClientes.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.CadastroDeClientesRapido.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.CadastroDeProdutosDoCliente.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.CadastroUsuarios.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.EdicaoProdutoMatrizes.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.EditarProdutosJFc.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.ErroCadastroClientes.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.ErrosForm.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.CadastroDeItensjfc.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.Exportar.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.Locais.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.Login.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.FormularioPrincipal.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.Properties.Resources.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.UserControl1.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.csproj.GenerateResource.cache
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.csproj.CoreCompileInputs.cache
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.csproj.CopyComplete
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.exe
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.pdb
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.AlterarSenha.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.Cfop.resources
+C:\Users\victor\Documents\meus projetos\NoClipper\NoClipper\obj\Release\NoClipper.SelecionarProdutoJfc.resources
